@@ -7,9 +7,14 @@
 body {
   background-image: linear-gradient(to right top, #1f4790, #1a4487, #15407e, #123d75, #10396c, #123d70, #154173, #174577, #1c5289, #215f9b, #246dad, #277bc0);
   color: #000;
+  background-image: url("https://www.stoketravel.com/wp-content/uploads/2019/02/wipeout-2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .wrapper {
+  background-color: dodgerblue;
   height: 40vh;
   width: 50vw;
   margin: 2vh auto;
