@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: rgba(0, 4, 255, 0.637);
+  background-image: linear-gradient(to right top, #1f4790, #1a4487, #15407e, #123d75, #10396c, #123d70, #154173, #174577, #1c5289, #215f9b, #246dad, #277bc0);
   color: #000;
 }
 

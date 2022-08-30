@@ -5,7 +5,21 @@
 }
 
 body {
-  background-color: rgba(0, 4, 255, 0.637);
+  background-image: linear-gradient(
+    to right top,
+    #1f4790,
+    #1a4487,
+    #15407e,
+    #123d75,
+    #10396c,
+    #123d70,
+    #154173,
+    #174577,
+    #1c5289,
+    #215f9b,
+    #246dad,
+    #277bc0
+  );
   color: #000;
 }
 
@@ -61,13 +75,12 @@ h2 {
 @media screen and(max-width: 800px) {
   h1 {
     font-size: 2.2rem;
-}
-h2 {
-      font-size: 1.8rem;
-    }
-    h3 {
-        
-        font-size: 1.4rem;
+  }
+  h2 {
+    font-size: 1.8rem;
+  }
+  h3 {
+    font-size: 1.4rem;
   }
   .logo > img {
     height: 6vh;
@@ -76,7 +89,6 @@ h2 {
     width: 90vw;
     border: 3px solid #000;
     justify-content: space-around;
-
   }
   .countdown {
     width: 100%;
