@@ -6,7 +6,7 @@ for (let item of countDownCardsArr) {
   wrapperDiv.innerHTML += `
   <div class="wrapper">
   <div class="title">
-      <h2>🏄‍♀️🏄Time until flight to ${item.title}🏄‍♀️🏄</h2>
+      <h2>🎉🎉Time until ${item.title}🎉🎉</h2>
       </div>
         <div class="countdown">
         <div class="container-day">
