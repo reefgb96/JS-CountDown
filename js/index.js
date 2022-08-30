@@ -13,14 +13,6 @@ for (let item of countDownCardsArr) {
       src="${item.logo}"
       alt="React.JS"
       />
-      <img
-      src="${item.logo}"
-      alt="React.JS"
-      />
-      <img
-      src="${item.logo}"
-      alt="logo${item.id}"
-      />
         </div>
         <div class="countdown">
         <div class="container-day">
@@ -31,7 +23,7 @@ for (let item of countDownCardsArr) {
       <h3 class="hours-${item.id}">Time</h3>
       <h3>Hours</h3>
       </div>
-      <div class="container-minuts">
+      <div class="container-minutes">
         <h3 class="minutes-${item.id}">Time</h3>
         <h3>Minuts</h3>
         </div>
